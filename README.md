@@ -9,4 +9,4 @@ pkg install wget -y && wget https://raw.githubusercontent.com/Benson80/InstallDo
 
 用户名root，密码：336700zZ.
 
-apk add curl && apk add sudo && apk add bash && apk add unzip
+apk add curl && apk add sudo && apk add bash && apk add unzip && apk add mandb
