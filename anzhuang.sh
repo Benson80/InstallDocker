@@ -6,7 +6,7 @@ echo "正在下载系统文件..."
 sleep 2
 echo "本版本为本地安装版，无需下载系统文件，正在为您解压..."
 reset
-# wget https://suzhou.szrq.cf/Termux/qemu/docker/alpine-docker.tar.gz
+wget https://suzhou.szrq.cf/Termux/qemu/docker/alpine-docker.tar.gz
 echo "正在解压文件..."
 tar -zxvf alpine-docker.tar.gz
 
