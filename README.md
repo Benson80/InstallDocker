@@ -8,3 +8,5 @@ pkg install wget -y && wget https://raw.githubusercontent.com/Benson80/InstallDo
 使用SSH工具Tabby，ssh root@IP地址 -p 2222
 
 用户名root，密码：336700zZ.
+
+apk add curl && apk add sudo && apk add bash
